@@ -1,4 +1,4 @@
-# Winter 2025 Assignment 04 - Working with Custom Objects
+# Spring 2025 Assignment 04 - Working with Custom Objects
 __Weight:__ 20% of final mark
 
 __Submission requirements__: On or before the due date, submit a Visual Studio 2022 project as per your instructor's direction. It is your responsibility to ensure your work is submitted as expected. Work that is not submitted will not be graded.
